@@ -1,16 +1,15 @@
 ### Hi there 👋
+You all can call me Piradata 😄
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=piradata.piradata)
 
-<!--
-**piradata/piradata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [Kodoverdikto](https://github.com/piradata/kodoverdikto/) and writing my master thesis on quadcoptor robotics
+- 🌱 I’m currently learning React and MongoDB
+- 👯 I’m looking to collaborate on Love
+- 🤔 I’m looking for help with Latex
+- 💬 Ask me about Anything!
+- 📫 How to reach me: piradata@duck.com
+- 😄 Pronouns: Crazy Lunatic
+- ⚡ Fun fact: Earth is NOT flat
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rusty-sj&hide=TeX&layout=compact)
+![Piradata's Github Stats](https://github-readme-stats.vercel.app/api?username=piradata&count_private=true&show_icons=true&include_all_commits=true)
