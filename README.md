@@ -9,7 +9,10 @@ You all can call me Piradata 😄
 - 🤔 I’m looking for help with Latex
 - 💬 Ask me about Anything!
 - 📫 How to reach me: piradata@duck.com
-- 👨‍💻 I almost have a site sites.google.com/view/piradata-dev or piradata-dev.duckdns or piradata-dev.ddnsgeek.com
+- 👨‍💻 I almost have a site XD
+  - sites.google.com/view/piradata-dev
+  - piradata-dev.duckdns
+  - piradata-dev.ddnsgeek.com
 - 😄 Pronouns: Crazy Lunatic
 - ⚡ Fun fact: Earth is NOT flat
 
