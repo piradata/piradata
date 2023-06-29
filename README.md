@@ -9,7 +9,8 @@ You all can call me Piradata 😄
 - 🤔 I’m looking for help with Latex
 - 💬 Ask me about Anything!
 - 📫 How to reach me: piradata@duck.com
-- 👨‍💻 I almost have a site XD
+- 👨‍💻 There are some sites XD
+  - piradata.dev
   - sites.google.com/view/piradata-dev
   - piradata-dev.duckdns
   - piradata-dev.ddnsgeek.com
