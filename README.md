@@ -11,7 +11,6 @@ You all can call me Piradata 😄
 - 📫 How to reach me: piradata@duck.com
 - 👨‍💻 There are some sites XD
   - piradata.dev
-  - sites.google.com/view/piradata-dev
   - piradata-dev.duckdns
   - piradata-dev.ddnsgeek.com
 - 😄 Pronouns: Crazy Lunatic
