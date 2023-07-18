@@ -3,16 +3,13 @@ You all can call me Piradata 😄
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=piradata.piradata)
 
-- 🔭 I’m currently working on [Kodoverdikto](https://github.com/piradata/kodoverdikto/) and writing my master thesis on quadcoptor robotics
+- 🔭 I’m currently working on [Kodoverdikto](https://github.com/piradata/kodoverdikto/)
 - 🌱 I’m currently learning React, Nest, Rust and MongoDB
 - 👯 I’m looking to collaborate on Love
-- 🤔 I’m looking for help with Latex
+- 🤔 I’m looking for help with real state
 - 💬 Ask me about Anything!
 - 📫 How to reach me: piradata@duck.com
-- 👨‍💻 There are some sites XD
-  - https://piradata.dev
-  - https://piradata-dev.duckdns
-  - https://piradata-dev.ddnsgeek.com
+- 👨‍💻 Website: https://piradata.dev
 - 😄 Pronouns: Crazy Lunatic
 - ⚡ Fun fact: Earth is NOT flat
 
