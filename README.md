@@ -13,5 +13,5 @@ You all can call me Piradata 😄
 - 😄 Pronouns: Crazy Lunatic
 - ⚡ Fun fact: Earth is NOT flat
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piradata&hide=TeX&layout=compact)
-![Piradata's Github Stats](https://github-readme-stats.vercel.app/api?username=piradata&count_private=true&show_icons=true&include_all_commits=true)
+![Piradata's Github Stats](https://github-readme-stats.vercel.app/api?username=piradata&count_private=true&show_icons=true&include_all_commits=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piradata&hide=TeX&layout=compact&theme=merko)
