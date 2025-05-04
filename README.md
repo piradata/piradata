@@ -11,5 +11,7 @@ You all can call me Piradata 😄
 - 📫 How to reach me: github@piradata.dev
 - ⚡ Fun fact: Did you know that octopuses have three hearts?
 
-![Piradata's Github Stats](https://github-readme-stats.vercel.app/api?username=piradata&count_private=true&show_icons=true&include_all_commits=true&theme=merko)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piradata&hide=TeX&layout=compact&theme=merko)
+![Piradata's Github Stats](https://github-readme-stats.vercel.app/api?username=piradata&count_private=true&show_icons=true&include_all_commits=true&theme=merko)
+![Piradata's Roadmap](https://roadmap.sh/card/tall/672e212f31d65c235d776d63?variant=dark)
